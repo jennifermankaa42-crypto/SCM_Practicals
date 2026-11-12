@@ -1,6 +1,6 @@
-score = int(inout("Enter score:  "))
+score = int(input("Enter score:  "))
 if score>50:
     print('Grade = B')
-    else:
+else:
         print('Grade = C')
         
